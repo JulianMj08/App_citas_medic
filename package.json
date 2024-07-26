@@ -1,0 +1,14 @@
+{
+  "name": "app_citas_medicas",
+  "version": "1.0.0",
+  "description": "App web de Citas Médicas",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
